@@ -1,0 +1,20 @@
+{
+  "name": "download-upload-server",
+  "version": "1.0.0",
+  "description": "Node.JS simple server to upload and download files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kishore-mindtree/download-upload-server.git"
+  },
+  "author": "kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kishore-mindtree/download-upload-server/issues"
+  },
+  "homepage": "https://github.com/Kishore-mindtree/download-upload-server#readme"
+}
